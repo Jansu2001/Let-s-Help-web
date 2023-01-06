@@ -1,0 +1,339 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+
+/* All Button Part Here */
+
+.a-button {
+    width: 160px;
+    height: 56px;
+    padding: 16px 12px;
+    background: #FF5959;
+    border-radius: 5px;
+    border: none;
+
+}
+
+.a-button a {
+    color: #FFFFFF;
+    font-weight: 600;
+    font-size: 20px;
+    text-decoration: none;
+}
+
+.a-button-tube a {
+
+    text-decoration: none;
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 600;
+    font-size: 18px;
+    color: #707070;
+    background: #FAFAFA;
+}
+
+.a-button-tube {
+    border: none;
+    margin-left: 30px;
+    width: 111px;
+    height: 28px;
+
+}
+
+/* All Button Part Here */
+
+
+
+
+/* banner part start */
+#Banner {
+    /* background-color: yellow; */
+    width: 1440px;
+    height: 669px;
+    padding-top: 121px;
+    padding-left: 156px;
+    display: flex;
+    background-image: url(/New-images/Ellipse\ 257.png);
+    background-repeat: no-repeat;
+    background-position: bottom right;
+}
+
+.h-tag {
+    margin-top: 120px;
+    font-size: 65px;
+    margin-bottom: 20px;
+    color: #121212;
+
+}
+
+.p-description {
+    font-family: 'Poppins';
+    color: #707070;
+    font-size: 30px;
+    margin-bottom: 30px;
+}
+
+
+
+.banner-right {
+    padding-top: 66px;
+    padding-right: 227px;
+
+}
+
+/* Banner part End */
+
+/* Donate-Today-part Start */
+
+#Donate {
+    text-align: center;
+
+}
+
+.h-all-title {
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 45px;
+    color: #121212;
+    margin-top: 130px;
+    margin-bottom: 20px;
+}
+
+.p-title {
+    margin-bottom: 50px;
+    font-family: 'Poppins';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 18px;
+    color: #707070;
+}
+
+
+
+
+.donate-taka {
+    display: flex;
+    margin-left: 310px;
+
+}
+
+.d-button {
+    /* margin: 12px; */
+    width: 135px;
+    height: 123px;
+    padding: 44px 25px;
+    background: #FAFAFA;
+    border-radius: 5px;
+    left: 653px;
+
+}
+
+.d-button .amount {
+    color: #707070;
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 30px;
+    border: none;
+    width: 136px;
+    height: 123px;
+}
+
+.d-button .amount-red {
+    color: #FF5959;
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 30px;
+    background: #FFEEEE;
+    border: 2px solid #FF5959;
+    border-radius: 5px;
+    width: 136px;
+    height: 123px;
+
+}
+
+.p-title-taka {
+    margin-bottom: 9.5px;
+}
+
+.taka {
+    margin-bottom: 30px;
+    opacity: 80%;
+}
+
+.hr {
+    margin-bottom: 30px;
+}
+
+/* Donate-Today-part End */
+
+#Donate-plan {
+    text-align: center;
+}
+
+.donate-three {
+    display: flex;
+    margin-top: 50px;
+    margin-left: 157px;
+    /**/
+
+
+
+}
+
+.three {
+
+    width: 360px;
+    height: 352px;
+    margin: 24px;
+    background: rgba(255, 89, 89, 0.1);
+    border-radius: 5px;
+}
+
+.three-one {
+    width: 360px;
+    height: 352px;
+    margin: 24px;
+    background: rgba(79, 157, 166, 0.1);
+    border-radius: 5px;
+}
+
+.donate-img {
+    margin-top: 63px;
+    margin-left: 23px;
+    margin-right: 278px;
+    margin-bottom: 31px;
+
+
+}
+
+.donate-title {
+    margin-right: 133px;
+    margin-bottom: 16px;
+    font-family: 'Poppins';
+    font-style: normal;
+    font-weight: 600;
+    font-size: 24px;
+}
+
+.donate-p {
+    text-align: start;
+    margin-left: 22px;
+    margin-right: 32px;
+    font-family: 'Poppins';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 16px;
+}
+
+/* no-more-homeless part */
+#no-more-homeless {
+    display: flex;
+    
+
+
+}
+
+.homeless-left {
+    margin-top: 182px;
+    margin-left: 176px;
+    margin-right: 94px;
+    width: 482px;
+    height: 374px;
+    /* background: black; */
+
+}
+
+.homeless-right {
+    margin-top: 131px;
+
+}
+
+.homeless-title {
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 45px;
+    line-height: 54px;
+    color: #121212;
+    margin-bottom: 20px;
+}
+
+.homeless-p {
+    font-family: 'Poppins';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 18px;
+    line-height: 28px;
+    margin-bottom: 20px;
+    color: #707070;
+}
+
+.big-button {
+    width: 230px;
+    height: 56px;
+    background: #FF5959;
+    border-radius: 5px;
+    padding: 16px 12px;
+}
+
+.big-button a {
+    text-decoration: none;
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 600;
+    font-size: 20px;
+    line-height: 24px;
+    color: #FFFFFF;
+
+}
+
+/* no-more-homeless part */
+
+/* give section */
+#give-section {
+    display: flex;
+}
+
+.give-left {
+    margin-top: 142px;
+    margin-left: 176px;
+    margin-right: 94px;
+    width: 456px;
+    height: 477px;
+}
+
+.give-right {
+    margin-top: 152px;
+    width: 482px;
+    height: 374px;
+}
+
+.give-title {
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 45px;
+    margin-bottom: 20px;
+}
+
+.give-p {
+    font-family: 'Poppins';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 18px;
+    line-height: 28px;
+    margin-bottom: 20px;
+}
+.give-p-p {
+    font-family: 'Poppins';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 18px;
+    line-height: 28px;
+    margin-bottom: 30px;
+}
