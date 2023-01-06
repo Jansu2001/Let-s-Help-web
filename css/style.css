@@ -55,7 +55,7 @@
     padding-top: 121px;
     padding-left: 156px;
     display: flex;
-    background-image: url(/New-images/Ellipse\ 257.png);
+    background-image: url(../newimages/ellipse.png);
     background-repeat: no-repeat;
     background-position: bottom right;
 }
@@ -337,3 +337,14 @@
     line-height: 28px;
     margin-bottom: 30px;
 }
+/* Update-section */
+
+#Update-section{
+    text-align: center;
+}
+/* Update-section */
+/* Email-section */
+#Email-section{
+    text-align: center;
+}
+/* Email-section */
